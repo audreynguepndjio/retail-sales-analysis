@@ -373,9 +373,9 @@ Il contient :
 ### Aperçu du dashboard
 
 
-```markdown
+
 ![Dashboard Power BI](outputs/figures/dashboard_preview.png)
-```
+
 
 ---
 
