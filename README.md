@@ -1,4 +1,4 @@
-# Retail Sales Analysis — Projet Data Analyst
+# Retail Sales Analysis
 
 ## 1. Présentation du projet
 
@@ -372,13 +372,10 @@ Il contient :
 
 ### Aperçu du dashboard
 
-> Ajouter une capture du dashboard final dans le dossier `outputs/figures/` avec le nom `dashboard_preview.png`.
 
 ```markdown
 ![Dashboard Power BI](outputs/figures/dashboard_preview.png)
 ```
-
-Une fois l’image ajoutée, GitHub affichera directement la capture du dashboard.
 
 ---
 
@@ -439,4 +436,4 @@ Une vision complète doit intégrer :
 
 L’analyse a permis d’identifier les leviers de performance du magasin, mais aussi plusieurs points d’attention, notamment la faible rentabilité de certaines sous-catégories et de certaines zones géographiques.
 
-Ce projet constitue une première base solide pour un portfolio Data Analyst junior.
+
